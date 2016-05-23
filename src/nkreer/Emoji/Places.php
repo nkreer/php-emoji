@@ -11,6 +11,7 @@ class Places{
     const FOUNTAIN = "\u{26f2}";
     const FERRY = "\u{26f4}";
     const BOAT = "\u{26f5}";
+    const SAILBOAT = "\u{26f5}";
     const TENT = "\u{26fa}";
     const FUELPUMP = "\u{26fd}";
     const AIRPLANE = "\u{2708}";
@@ -94,6 +95,7 @@ class Places{
     const TAXI = "\u{1f695}";
     const ONCOMING_TAXI = "\u{1f696}";
     const CAR = "\u{1f697}";
+    const RED_CAR = "\u{1f697}";
     const ONCOMING_AUTOMOBILE = "\u{1f698}";
     const BLUE_CAR = "\u{1f699}";
     const TRUCK = "\u{1f69a}";

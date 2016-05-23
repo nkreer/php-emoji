@@ -26,6 +26,7 @@ class Nature{
     const WAXING_CRESCENT_MOON = "\u{1f312}";
     const FIRST_QUARTER_MOON = "\u{1f313}";
     const MOON = "\u{1f314}";
+    const WAXING_GIBBOUS_MOON = "\u{1f314}";
     const FULL_MOON = "\u{1f315}";
     const WANING_GIBBOUS_MOON = "\u{1f316}";
     const LAST_QUARTER_MOON = "\u{1f317}";
@@ -38,12 +39,17 @@ class Nature{
     const SUN_WITH_FACE = "\u{1f31e}";
     const STAR2 = "\u{1f31f}";
     const MOSTLY_SUNNY = "\u{1f324}";
+    const SUN_SMALL_CLOUD = "\u{1f324}";
     const BARELY_SUNNY = "\u{1f325}";
+    const SUN_BEHIND_CLOUD = "\u{1f325}";
     const PARTLY_SUNNY_RAIN = "\u{1f326}";
+    const SUN_BEHIND_RAIN_CLOUD = "\u{1f326}";
     const RAIN_CLOUD = "\u{1f327}";
     const SNOW_CLOUD = "\u{1f328}";
     const LIGHTNING = "\u{1f329}";
+    const LIGHTNING_CLOUD = "\u{1f329}";
     const TORNADO = "\u{1f32a}";
+    const TORNADO_CLOUD = "\u{1f32a}";
     const FOG = "\u{1f32b}";
     const WIND_BLOWING_FACE = "\u{1f32c}";
     const CHESTNUT = "\u{1f330}";
@@ -99,6 +105,7 @@ class Nature{
     const BUG = "\u{1f41b}";
     const ANT = "\u{1f41c}";
     const BEE = "\u{1f41d}";
+    const HONEYBEE = "\u{1f41d}";
     const BEETLE = "\u{1f41e}";
     const FISH = "\u{1f41f}";
     const TROPICAL_FISH = "\u{1f420}";
@@ -114,6 +121,7 @@ class Nature{
     const DROMEDARY_CAMEL = "\u{1f42a}";
     const CAMEL = "\u{1f42b}";
     const DOLPHIN = "\u{1f42c}";
+    const FLIPPER = "\u{1f42c}";
     const MOUSE = "\u{1f42d}";
     const COW = "\u{1f42e}";
     const TIGER = "\u{1f42f}";
@@ -132,9 +140,11 @@ class Nature{
     const PANDA_FACE = "\u{1f43c}";
     const PIG_NOSE = "\u{1f43d}";
     const FEET = "\u{1f43e}";
+    const PAW_PRINTS = "\u{1f43e}";
     const CHIPMUNK = "\u{1f43f}";
     const BOUQUET = "\u{1f490}";
     const BOOM = "\u{1f4a5}";
+    const COLLISION = "\u{1f4a5}";
     const SWEAT_DROPS = "\u{1f4a6}";
     const DROPLET = "\u{1f4a7}";
     const DASH = "\u{1f4a8}";

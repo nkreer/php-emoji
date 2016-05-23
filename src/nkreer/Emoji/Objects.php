@@ -12,6 +12,7 @@ class Objects{
     const TIMER_CLOCK = "\u{23f2}";
     const HOURGLASS_FLOWING_SAND = "\u{23f3}";
     const PHONE = "\u{260e}";
+    const TELEPHONE = "\u{260e}";
     const SKULL_AND_CROSSBONES = "\u{2620}";
     const HAMMER_AND_PICK = "\u{2692}";
     const CROSSED_SWORDS = "\u{2694}";
@@ -25,6 +26,7 @@ class Objects{
     const UMBRELLA_ON_GROUND = "\u{26f1}";
     const SCISSORS = "\u{2702}";
     const EMAIL = "\u{2709}";
+    const ENVELOPE = "\u{2709}";
     const PENCIL2 = "\u{270f}";
     const BLACK_NIB = "\u{2712}";
     const THERMOMETER = "\u{1f321}";
@@ -43,6 +45,7 @@ class Objects{
     const FILM_FRAMES = "\u{1f39e}";
     const MOVIE_CAMERA = "\u{1f3a5}";
     const IZAKAYA_LANTERN = "\u{1f3ee}";
+    const LANTERN = "\u{1f3ee}";
     const WAVING_WHITE_FLAG = "\u{1f3f3}";
     const WAVING_BLACK_FLAG = "\u{1f3f4}";
     const LABEL = "\u{1f3f7}";
@@ -88,12 +91,14 @@ class Objects{
     const NOTEBOOK_WITH_DECORATIVE_COVER = "\u{1f4d4}";
     const CLOSED_BOOK = "\u{1f4d5}";
     const BOOK = "\u{1f4d6}";
+    const OPEN_BOOK = "\u{1f4d6}";
     const GREEN_BOOK = "\u{1f4d7}";
     const BLUE_BOOK = "\u{1f4d8}";
     const ORANGE_BOOK = "\u{1f4d9}";
     const BOOKS = "\u{1f4da}";
     const SCROLL = "\u{1f4dc}";
     const MEMO = "\u{1f4dd}";
+    const PENCIL = "\u{1f4dd}";
     const TELEPHONE_RECEIVER = "\u{1f4de}";
     const PAGER = "\u{1f4df}";
     const FAX = "\u{1f4e0}";
@@ -137,6 +142,7 @@ class Objects{
     const HAMMER = "\u{1f528}";
     const NUT_AND_BOLT = "\u{1f529}";
     const HOCHO = "\u{1f52a}";
+    const KNIFE = "\u{1f52a}";
     const GUN = "\u{1f52b}";
     const MICROSCOPE = "\u{1f52c}";
     const TELESCOPE = "\u{1f52d}";

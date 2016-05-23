@@ -85,6 +85,7 @@ class Symbols{
     const GREY_QUESTION = "\u{2754}";
     const GREY_EXCLAMATION = "\u{2755}";
     const EXCLAMATION = "\u{2757}";
+    const HEAVY_EXCLAMATION_MARK = "\u{2757}";
     const HEAVY_HEART_EXCLAMATION_MARK_ORNAMENT = "\u{2763}";
     const HEART = "\u{2764}";
     const HEAVY_PLUS_SIGN = "\u{2795}";

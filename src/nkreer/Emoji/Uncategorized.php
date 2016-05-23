@@ -11,5 +11,5 @@ class Uncategorized{
     const SKIN_TONE_5 = "\u{1f3fe}";
     const SKIN_TONE_6 = "\u{1f3ff}";
     const LEFT_SPEECH_BUBBLE = "\u{1f5e8}";
-    
+
 }

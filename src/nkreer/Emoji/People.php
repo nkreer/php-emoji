@@ -10,6 +10,7 @@ class People{
     const HELMET_WITH_WHITE_CROSS = "\u{26d1}";
     const FIST = "\u{270a}";
     const HAND = "\u{270b}";
+    const RAISED_HAND = "\u{270b}";
     const V = "\u{270c}";
     const WRITING_HAND = "\u{270d}";
     const CLOSED_UMBRELLA = "\u{1f302}";
@@ -18,6 +19,7 @@ class People{
     const MORTAR_BOARD = "\u{1f393}";
     const TOPHAT = "\u{1f3a9}";
     const RUNNER = "\u{1f3c3}";
+    const RUNNING = "\u{1f3c3}";
     const EYES = "\u{1f440}";
     const EYE = "\u{1f441}";
     const EAR = "\u{1f442}";
@@ -29,10 +31,13 @@ class People{
     const POINT_LEFT = "\u{1f448}";
     const POINT_RIGHT = "\u{1f449}";
     const FACEPUNCH = "\u{1f44a}";
+    const PUNCH = "\u{1f44a}";
     const WAVE = "\u{1f44b}";
     const OK_HAND = "\u{1f44c}";
     const PLUS1 = "\u{1f44d}";
+    const THUMBSUP = "\u{1f44d}";
     const _1 = "\u{1f44e}";
+    const THUMBSDOWN = "\u{1f44e}";
     const CLAP = "\u{1f44f}";
     const OPEN_HANDS = "\u{1f450}";
     const CROWN = "\u{1f451}";
@@ -40,6 +45,7 @@ class People{
     const EYEGLASSES = "\u{1f453}";
     const NECKTIE = "\u{1f454}";
     const SHIRT = "\u{1f455}";
+    const TSHIRT = "\u{1f455}";
     const JEANS = "\u{1f456}";
     const DRESS = "\u{1f457}";
     const KIMONO = "\u{1f458}";
@@ -49,6 +55,7 @@ class People{
     const HANDBAG = "\u{1f45c}";
     const POUCH = "\u{1f45d}";
     const MANS_SHOE = "\u{1f45e}";
+    const SHOE = "\u{1f45e}";
     const ATHLETIC_SHOE = "\u{1f45f}";
     const HIGH_HEEL = "\u{1f460}";
     const SANDAL = "\u{1f461}";
@@ -61,7 +68,9 @@ class People{
     const MAN = "\u{1f468}";
     const WOMAN = "\u{1f469}";
     const FAMILY = "\u{1f46a}";
+    const MAN_WOMAN_BOY = "\u{1f46a}";
     const COUPLE = "\u{1f46b}";
+    const MAN_AND_WOMAN_HOLDING_HANDS = "\u{1f46b}";
     const TWO_MEN_HOLDING_HANDS = "\u{1f46c}";
     const TWO_WOMEN_HOLDING_HANDS = "\u{1f46d}";
     const COP = "\u{1f46e}";
@@ -95,12 +104,15 @@ class People{
     const COUPLE_WITH_HEART = "\u{1f491}";
     const ZZZ = "\u{1f4a4}";
     const HANKEY = "\u{1f4a9}";
+    const POOP = "\u{1f4a9}";
+    const SHIT = "\u{1f4a9}";
     const MUSCLE = "\u{1f4aa}";
     const BRIEFCASE = "\u{1f4bc}";
     const SLEUTH_OR_SPY = "\u{1f575}";
     const DARK_SUNGLASSES = "\u{1f576}";
     const RAISED_HAND_WITH_FINGERS_SPLAYED = "\u{1f590}";
     const MIDDLE_FINGER = "\u{1f595}";
+    const REVERSED_HAND_WITH_MIDDLE_FINGER_EXTENDED = "\u{1f595}";
     const SPOCK_HAND = "\u{1f596}";
     const SPEAKING_HEAD_IN_SILHOUETTE = "\u{1f5e3}";
     const GRINNING = "\u{1f600}";
@@ -110,6 +122,7 @@ class People{
     const SMILE = "\u{1f604}";
     const SWEAT_SMILE = "\u{1f605}";
     const LAUGHING = "\u{1f606}";
+    const SATISFIED = "\u{1f606}";
     const INNOCENT = "\u{1f607}";
     const SMILING_IMP = "\u{1f608}";
     const WINK = "\u{1f609}";
@@ -190,5 +203,6 @@ class People{
     const ROBOT_FACE = "\u{1f916}";
     const HUGGING_FACE = "\u{1f917}";
     const THE_HORNS = "\u{1f918}";
+    const SIGN_OF_THE_HORNS = "\u{1f918}";
     
 }
