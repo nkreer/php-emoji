@@ -1,6 +1,7 @@
 {
   "name": "nkreer/php-emoji",
   "description": "Library that provides constants sorted after category for emoji characters in PHP 7.",
+  "license":"MIT",
   "require": {
     "php": "^7.0"
   }

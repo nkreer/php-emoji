@@ -261,5 +261,16 @@ class Symbols{
     const BAGGAGE_CLAIM = "\u{1f6c4}";
     const LEFT_LUGGAGE = "\u{1f6c5}";
     const PLACE_OF_WORSHIP = "\u{1f6d0}";
+    const HASH = "\u{0023}\u{20e3}";
+    const ZERO = "\u{0030}\u{20e3}";
+    const ONE = "\u{0031}\u{20e3}";
+    const TWO = "\u{0032}\u{20e3}";
+    const THREE = "\u{0033}\u{20e3}";
+    const FOUR = "\u{0034}\u{20e3}";
+    const FIVE = "\u{0035}\u{20e3}";
+    const SIX = "\u{0036}\u{20e3}";
+    const SEVEN = "\u{0037}\u{20e3}";
+    const EIGHT = "\u{0038}\u{20e3}";
+    const NINE = "\u{0039}\u{20e3}";
     
 }

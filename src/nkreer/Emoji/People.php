@@ -204,5 +204,23 @@ class People{
     const HUGGING_FACE = "\u{1f917}";
     const THE_HORNS = "\u{1f918}";
     const SIGN_OF_THE_HORNS = "\u{1f918}";
+    const MAN_MAN_BOY = "\u{1f468}\u{200d}\u{1f468}\u{200d}\u{1f466}";
+    const MAN_MAN_BOY_BOY = "\u{1f468}\u{200d}\u{1f468}\u{200d}\u{1f466}\u{200d}\u{1f466}";
+    const MAN_MAN_GIRL = "\u{1f468}\u{200d}\u{1f468}\u{200d}\u{1f467}";
+    const MAN_MAN_GIRL_BOY = "\u{1f468}\u{200d}\u{1f468}\u{200d}\u{1f467}\u{200d}\u{1f466}";
+    const MAN_MAN_GIRL_GIRL = "\u{1f468}\u{200d}\u{1f468}\u{200d}\u{1f467}\u{200d}\u{1f467}";
+    const MAN_WOMAN_BOY_BOY = "\u{1f468}\u{200d}\u{1f469}\u{200d}\u{1f466}\u{200d}\u{1f466}";
+    const MAN_WOMAN_GIRL = "\u{1f468}\u{200d}\u{1f469}\u{200d}\u{1f467}";
+    const MAN_WOMAN_GIRL_BOY = "\u{1f468}\u{200d}\u{1f469}\u{200d}\u{1f467}\u{200d}\u{1f466}";
+    const MAN_WOMAN_GIRL_GIRL = "\u{1f468}\u{200d}\u{1f469}\u{200d}\u{1f467}\u{200d}\u{1f467}";
+    const MAN_HEART_MAN = "\u{1f468}\u{200d}\u{2764}\u{fe0f}\u{200d}\u{1f468}";
+    const MAN_KISS_MAN = "\u{1f468}\u{200d}\u{2764}\u{fe0f}\u{200d}\u{1f48b}\u{200d}\u{1f468}";
+    const WOMAN_WOMAN_BOY = "\u{1f469}\u{200d}\u{1f469}\u{200d}\u{1f466}";
+    const WOMAN_WOMAN_BOY_BOY = "\u{1f469}\u{200d}\u{1f469}\u{200d}\u{1f466}\u{200d}\u{1f466}";
+    const WOMAN_WOMAN_GIRL = "\u{1f469}\u{200d}\u{1f469}\u{200d}\u{1f467}";
+    const WOMAN_WOMAN_GIRL_BOY = "\u{1f469}\u{200d}\u{1f469}\u{200d}\u{1f467}\u{200d}\u{1f466}";
+    const WOMAN_WOMAN_GIRL_GIRL = "\u{1f469}\u{200d}\u{1f469}\u{200d}\u{1f467}\u{200d}\u{1f467}";
+    const WOMAN_HEART_WOMAN = "\u{1f469}\u{200d}\u{2764}\u{fe0f}\u{200d}\u{1f469}";
+    const WOMAN_KISS_WOMAN = "\u{1f469}\u{200d}\u{2764}\u{fe0f}\u{200d}\u{1f48b}\u{200d}\u{1f469}";
     
 }
