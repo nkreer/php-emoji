@@ -5,8 +5,10 @@ namespace Emoji;
 class Activity{
 
     const SOCCER = "\u{26bd}";
+    const SOCCER_BALL = "\u{26bd}";
     const BASEBALL = "\u{26be}";
     const GOLF = "\u{26f3}";
+    const FLAG_IN_HOLE = "\u{26f3}";
     const SKIER = "\u{26f7}";
     const ICE_SKATE = "\u{26f8}";
     const PERSON_WITH_BALL = "\u{26f9}";
@@ -16,20 +18,26 @@ class Activity{
     const PERSON_WITH_BALL_4 = "\u{26f9}\u{1f3fe}";
     const PERSON_WITH_BALL_5 = "\u{26f9}\u{1f3ff}";
     const MEDAL = "\u{1f396}";
+    const MILITARY_MEDAL = "\u{1f396}";
     const REMINDER_RIBBON = "\u{1f397}";
     const ADMISSION_TICKETS = "\u{1f39f}";
     const FISHING_POLE_AND_FISH = "\u{1f3a3}";
     const MICROPHONE = "\u{1f3a4}";
     const HEADPHONES = "\u{1f3a7}";
+    const HEADPHONE = "\u{1f3a7}";
     const ART = "\u{1f3a8}";
+    const ARTIST_PALETTE = "\u{1f3a8}";
     const CIRCUS_TENT = "\u{1f3aa}";
     const TICKET = "\u{1f3ab}";
     const CLAPPER = "\u{1f3ac}";
+    const CLAPPER_BOARD = "\u{1f3ac}";
     const PERFORMING_ARTS = "\u{1f3ad}";
     const VIDEO_GAME = "\u{1f3ae}";
     const DART = "\u{1f3af}";
+    const DIRECT_HIT = "\u{1f3af}";
     const SLOT_MACHINE = "\u{1f3b0}";
     const EIGHTBALL = "\u{1f3b1}";
+    const BILLIARDS = "\u{1f3b1}";
     const GAME_DIE = "\u{1f3b2}";
     const BOWLING = "\u{1f3b3}";
     const SAXOPHONE = "\u{1f3b7}";
@@ -40,8 +48,11 @@ class Activity{
     const MUSICAL_SCORE = "\u{1f3bc}";
     const RUNNING_SHIRT_WITH_SASH = "\u{1f3bd}";
     const TENNIS = "\u{1f3be}";
+    const TENNIS_RACQUET_AND_BALL = "\u{1f3be}";
     const SKI = "\u{1f3bf}";
+    const SKI_AND_SKI_BOOT = "\u{1f3bf}";
     const BASKETBALL = "\u{1f3c0}";
+    const BASKETBALL_AND_HOOP = "\u{1f3c0}";
     const SNOWBOARDER = "\u{1f3c2}";
     const SURFER = "\u{1f3c4}";
     const SURFER_1 = "\u{1f3c4}\u{1f3fb}";
@@ -58,6 +69,7 @@ class Activity{
     const HORSE_RACING_4 = "\u{1f3c7}\u{1f3fe}";
     const HORSE_RACING_5 = "\u{1f3c7}\u{1f3ff}";
     const FOOTBALL = "\u{1f3c8}";
+    const AMERICAN_FOOTBALL = "\u{1f3c8}";
     const RUGBY_FOOTBALL = "\u{1f3c9}";
     const SWIMMER = "\u{1f3ca}";
     const SWIMMER_1 = "\u{1f3ca}\u{1f3fb}";
@@ -81,6 +93,7 @@ class Activity{
     const BADMINTON_RACQUET_AND_SHUTTLECOCK = "\u{1f3f8}";
     const BOW_AND_ARROW = "\u{1f3f9}";
     const SPACE_INVADER = "\u{1f47e}";
+    const ALIEN_MONSTER = "\u{1f47e}";
     const MAN_IN_BUSINESS_SUIT_LEVITATING = "\u{1f574}";
     const ROWBOAT = "\u{1f6a3}";
     const ROWBOAT_1 = "\u{1f6a3}\u{1f3fb}";
