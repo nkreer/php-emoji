@@ -5,7 +5,7 @@ namespace Emoji;
 class Uncategorized{
 
     const EJECT = "\u{23cf}";
-    const SKIN_TONE_2 = "\u{1f3fb}";
+    const SKIN_TONE_TWO = "\u{1f3fb}";
     const SKIN_TONE_3 = "\u{1f3fc}";
     const SKIN_TONE_4 = "\u{1f3fd}";
     const SKIN_TONE_5 = "\u{1f3fe}";
