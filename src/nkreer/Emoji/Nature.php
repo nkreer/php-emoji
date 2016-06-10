@@ -8,7 +8,6 @@ class Nature{
     const BLACK_SUN_WITH_RAYS = "\u{2600}";
     const CLOUD = "\u{2601}";
     const UMBRELLA = "\u{2602}";
-    const SHOWMAN = "\u{2603}";
     const SNOWMAN = "\u{2603}";
     const COMET = "\u{2604}";
     const UMBRELLA_WITH_RAIN_DROPS = "\u{2614}";

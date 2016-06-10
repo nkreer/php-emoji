@@ -29,6 +29,8 @@ class Symbols{
     const LEFTWARDS_ARROW_WITH_HOOK = "\u{21a9}";
     const ARROW_RIGHT_HOOK = "\u{21aa}";
     const RIGHTWARDS_ARROW_WITH_HOOK = "\u{21aa}";
+    const EJECT = "\u{23cf}";
+    const EJECT_SYMBOL = "\u{23cf}";
     const FAST_FORWARD = "\u{23e9}";
     const BLACK_RIGHT_POINTING_DOUBLE_TRIANGLE = "\u{23e9}";
     const REWIND = "\u{23ea}";
@@ -383,6 +385,7 @@ class Symbols{
     const CLOCK_FACE_ELEVEN_THIRTY = "\u{1f566}";
     const CLOCK1230 = "\u{1f567}";
     const CLOCK_FACE_TWELVE_THIRTY = "\u{1f567}";
+    const LEFT_SPEECH_BUBBLE = "\u{1f5e8}";
     const RIGHT_ANGER_BUBBLE = "\u{1f5ef}";
     const NO_ENTRY_SIGN = "\u{1f6ab}";
     const NO_SMOKING = "\u{1f6ad}";
@@ -413,6 +416,7 @@ class Symbols{
     const PLACE_OF_WORSHIP = "\u{1f6d0}";
     const HASH = "\u{0023}\u{20e3}";
     const HASH_KEY = "\u{0023}\u{20e3}";
+    const KEYCAP_STAR = "\u{002a}\u{20e3}";
     const ZERO = "\u{0030}\u{20e3}";
     const KEYCAP_0 = "\u{0030}\u{20e3}";
     const ONE = "\u{0031}\u{20e3}";

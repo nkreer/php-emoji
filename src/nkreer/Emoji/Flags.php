@@ -4,6 +4,8 @@ namespace Emoji;
 
 class Flags{
 
+    const FLAG_AC = "\u{1f1e6}\u{1f1e8}";
+    const REGIONAL_INDICATOR_SYMBOL_LETTERS_AC = "\u{1f1e6}\u{1f1e8}";
     const FLAG_AD = "\u{1f1e6}\u{1f1e9}";
     const REGIONAL_INDICATOR_SYMBOL_LETTERS_AD = "\u{1f1e6}\u{1f1e9}";
     const FLAG_AE = "\u{1f1e6}\u{1f1ea}";
@@ -70,6 +72,8 @@ class Flags{
     const REGIONAL_INDICATOR_SYMBOL_LETTERS_BS = "\u{1f1e7}\u{1f1f8}";
     const FLAG_BT = "\u{1f1e7}\u{1f1f9}";
     const REGIONAL_INDICATOR_SYMBOL_LETTERS_BT = "\u{1f1e7}\u{1f1f9}";
+    const FLAG_BV = "\u{1f1e7}\u{1f1fb}";
+    const REGIONAL_INDICATOR_SYMBOL_LETTERS_BV = "\u{1f1e7}\u{1f1fb}";
     const FLAG_BW = "\u{1f1e7}\u{1f1fc}";
     const REGIONAL_INDICATOR_SYMBOL_LETTERS_BW = "\u{1f1e7}\u{1f1fc}";
     const FLAG_BY = "\u{1f1e7}\u{1f1fe}";
@@ -101,6 +105,8 @@ class Flags{
     const REGIONAL_INDICATOR_SYMBOL_LETTERS_CN = "\u{1f1e8}\u{1f1f3}";
     const FLAG_CO = "\u{1f1e8}\u{1f1f4}";
     const REGIONAL_INDICATOR_SYMBOL_LETTERS_CO = "\u{1f1e8}\u{1f1f4}";
+    const FLAG_CP = "\u{1f1e8}\u{1f1f5}";
+    const REGIONAL_INDICATOR_SYMBOL_LETTERS_CP = "\u{1f1e8}\u{1f1f5}";
     const FLAG_CR = "\u{1f1e8}\u{1f1f7}";
     const REGIONAL_INDICATOR_SYMBOL_LETTERS_CR = "\u{1f1e8}\u{1f1f7}";
     const FLAG_CU = "\u{1f1e8}\u{1f1fa}";
@@ -118,6 +124,8 @@ class Flags{
     const FLAG_DE = "\u{1f1e9}\u{1f1ea}";
     const DE = "\u{1f1e9}\u{1f1ea}";
     const REGIONAL_INDICATOR_SYMBOL_LETTERS_DE = "\u{1f1e9}\u{1f1ea}";
+    const FLAG_DG = "\u{1f1e9}\u{1f1ec}";
+    const REGIONAL_INDICATOR_SYMBOL_LETTERS_DG = "\u{1f1e9}\u{1f1ec}";
     const FLAG_DJ = "\u{1f1e9}\u{1f1ef}";
     const REGIONAL_INDICATOR_SYMBOL_LETTERS_DJ = "\u{1f1e9}\u{1f1ef}";
     const FLAG_DK = "\u{1f1e9}\u{1f1f0}";
@@ -128,6 +136,8 @@ class Flags{
     const REGIONAL_INDICATOR_SYMBOL_LETTERS_DO = "\u{1f1e9}\u{1f1f4}";
     const FLAG_DZ = "\u{1f1e9}\u{1f1ff}";
     const REGIONAL_INDICATOR_SYMBOL_LETTERS_DZ = "\u{1f1e9}\u{1f1ff}";
+    const FLAG_EA = "\u{1f1ea}\u{1f1e6}";
+    const REGIONAL_INDICATOR_SYMBOL_LETTERS_EA = "\u{1f1ea}\u{1f1e6}";
     const FLAG_EC = "\u{1f1ea}\u{1f1e8}";
     const REGIONAL_INDICATOR_SYMBOL_LETTERS_EC = "\u{1f1ea}\u{1f1e8}";
     const FLAG_EE = "\u{1f1ea}\u{1f1ea}";
@@ -200,6 +210,8 @@ class Flags{
     const REGIONAL_INDICATOR_SYMBOL_LETTERS_GY = "\u{1f1ec}\u{1f1fe}";
     const FLAG_HK = "\u{1f1ed}\u{1f1f0}";
     const REGIONAL_INDICATOR_SYMBOL_LETTERS_HK = "\u{1f1ed}\u{1f1f0}";
+    const FLAG_HM = "\u{1f1ed}\u{1f1f2}";
+    const REGIONAL_INDICATOR_SYMBOL_LETTERS_HM = "\u{1f1ed}\u{1f1f2}";
     const FLAG_HN = "\u{1f1ed}\u{1f1f3}";
     const REGIONAL_INDICATOR_SYMBOL_LETTERS_HN = "\u{1f1ed}\u{1f1f3}";
     const FLAG_HR = "\u{1f1ed}\u{1f1f7}";
@@ -293,6 +305,8 @@ class Flags{
     const REGIONAL_INDICATOR_SYMBOL_LETTERS_MD = "\u{1f1f2}\u{1f1e9}";
     const FLAG_ME = "\u{1f1f2}\u{1f1ea}";
     const REGIONAL_INDICATOR_SYMBOL_LETTERS_ME = "\u{1f1f2}\u{1f1ea}";
+    const FLAG_MF = "\u{1f1f2}\u{1f1eb}";
+    const REGIONAL_INDICATOR_SYMBOL_LETTERS_MF = "\u{1f1f2}\u{1f1eb}";
     const FLAG_MG = "\u{1f1f2}\u{1f1ec}";
     const REGIONAL_INDICATOR_SYMBOL_LETTERS_MG = "\u{1f1f2}\u{1f1ec}";
     const FLAG_MH = "\u{1f1f2}\u{1f1ed}";
@@ -412,6 +426,8 @@ class Flags{
     const REGIONAL_INDICATOR_SYMBOL_LETTERS_SH = "\u{1f1f8}\u{1f1ed}";
     const FLAG_SI = "\u{1f1f8}\u{1f1ee}";
     const REGIONAL_INDICATOR_SYMBOL_LETTERS_SI = "\u{1f1f8}\u{1f1ee}";
+    const FLAG_SJ = "\u{1f1f8}\u{1f1ef}";
+    const REGIONAL_INDICATOR_SYMBOL_LETTERS_SJ = "\u{1f1f8}\u{1f1ef}";
     const FLAG_SK = "\u{1f1f8}\u{1f1f0}";
     const REGIONAL_INDICATOR_SYMBOL_LETTERS_SK = "\u{1f1f8}\u{1f1f0}";
     const FLAG_SL = "\u{1f1f8}\u{1f1f1}";
@@ -436,6 +452,8 @@ class Flags{
     const REGIONAL_INDICATOR_SYMBOL_LETTERS_SY = "\u{1f1f8}\u{1f1fe}";
     const FLAG_SZ = "\u{1f1f8}\u{1f1ff}";
     const REGIONAL_INDICATOR_SYMBOL_LETTERS_SZ = "\u{1f1f8}\u{1f1ff}";
+    const FLAG_TA = "\u{1f1f9}\u{1f1e6}";
+    const REGIONAL_INDICATOR_SYMBOL_LETTERS_TA = "\u{1f1f9}\u{1f1e6}";
     const FLAG_TC = "\u{1f1f9}\u{1f1e8}";
     const REGIONAL_INDICATOR_SYMBOL_LETTERS_TC = "\u{1f1f9}\u{1f1e8}";
     const FLAG_TD = "\u{1f1f9}\u{1f1e9}";
@@ -472,6 +490,8 @@ class Flags{
     const REGIONAL_INDICATOR_SYMBOL_LETTERS_UA = "\u{1f1fa}\u{1f1e6}";
     const FLAG_UG = "\u{1f1fa}\u{1f1ec}";
     const REGIONAL_INDICATOR_SYMBOL_LETTERS_UG = "\u{1f1fa}\u{1f1ec}";
+    const FLAG_UM = "\u{1f1fa}\u{1f1f2}";
+    const REGIONAL_INDICATOR_SYMBOL_LETTERS_UM = "\u{1f1fa}\u{1f1f2}";
     const FLAG_US = "\u{1f1fa}\u{1f1f8}";
     const US = "\u{1f1fa}\u{1f1f8}";
     const REGIONAL_INDICATOR_SYMBOL_LETTERS_US = "\u{1f1fa}\u{1f1f8}";
